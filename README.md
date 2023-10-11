@@ -1,3 +1,5 @@
+![img](https://i.imgur.com/fOymlJr.png)
+
 ## 👋 Hi, I’m a Back-end Developer.
 
 <div align="center">
@@ -10,8 +12,6 @@
     <br>
     <br>
 </div>
-
-![img](https://i.imgur.com/fOymlJr.png)
 
 ### Back-end
 
