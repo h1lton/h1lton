@@ -6,11 +6,6 @@
     <img src="https://skillicons.dev/icons?i=py,django,js,html,css,bootstrap,postgres,sqlite,redis,docker,postman,idea,vscode,git,github&theme=light" alt="Tech">
     <br>
     <br>
-    <a href="https://wakatime.com/@56ea9cb6-1c96-4001-be68-19473c29b492">
-        <img src="https://wakatime.com/badge/user/56ea9cb6-1c96-4001-be68-19473c29b492.svg?style=for-the-badge" alt="wakatime">
-    </a>
-    <br>
-    <br>
 </div>
 
 ### Back-end
@@ -44,5 +39,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+    <br>
+    <br>
+    <a href="https://wakatime.com/@56ea9cb6-1c96-4001-be68-19473c29b492">
+        <img src="https://wakatime.com/badge/user/56ea9cb6-1c96-4001-be68-19473c29b492.svg?style=for-the-badge" alt="wakatime">
+        <img src="https://wakatime.com/share/@hilton/857d76a0-ae57-403c-b598-8244394f1ae2.svg"/>
+    </a>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
