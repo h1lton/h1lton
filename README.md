@@ -1,4 +1,4 @@
-![img](https://i.imgur.com/fOymlJr.png)
+<img style="border-radius: 40px" src="https://i.imgur.com/fOymlJr.png" alt="img">
 
 ## 👋 Hi, I’m a Back-end Developer.
 
