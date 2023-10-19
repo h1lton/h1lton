@@ -41,9 +41,10 @@
 <p align="center">
     <br>
     <br>
-    <a href="https://wakatime.com/@56ea9cb6-1c96-4001-be68-19473c29b492">
+    <a href="https://wakatime.com/@hilton">
         <img src="https://wakatime.com/badge/user/56ea9cb6-1c96-4001-be68-19473c29b492.svg?style=for-the-badge" alt="wakatime">
-        <img src="https://wakatime.com/share/@hilton/857d76a0-ae57-403c-b598-8244394f1ae2.svg"/>
+        <br>
+        <img src="https://wakatime.com/share/@hilton/4beee8c8-5d2c-48d3-8adc-2dec6d5d3cba.svg"/>
     </a>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
