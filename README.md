@@ -3,7 +3,7 @@
 ## 👋 Hi, I’m a Back-end Developer.
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,js,html,css,bootstrap,postgres,sqlite,redis,docker,postman,idea,vscode,git,github&theme=light" alt="Tech">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,html,css,bootstrap,postgres,sqlite,redis,docker,postman,idea,vscode,git&theme=light" alt="Tech">
     <br>
     <br>
 </div>
