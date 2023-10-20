@@ -1,6 +1,4 @@
-<img style="border-radius: 40px" src="https://i.imgur.com/fOymlJr.png" alt="img">
-
-## 👋 Hi, I’m a Back-end Developer.
+<img src="banner.png" alt="banner">
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,html,css,bootstrap,postgres,sqlite,redis,docker,postman,idea,vscode,git&theme=light" alt="Tech">
