@@ -42,8 +42,6 @@ ___
 ___
 
 <p align="center">
-    <br>
-    <br>
     <a href="https://wakatime.com/@hilton">
         <img src="https://wakatime.com/badge/user/56ea9cb6-1c96-4001-be68-19473c29b492.svg?style=for-the-badge" alt="wakatime">
         <br>
