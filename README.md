@@ -3,7 +3,7 @@
 ___
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,html,css,react,nodejs,bootstrap,postgres,sqlite,redis,docker,idea,git&theme=light" alt="Tech">
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,js,html,css,react,nodejs,bootstrap,postgres,mysql,sqlite,redis,docker,git&theme=light" alt="Tech">
     <br>
     <br>
 </div>
@@ -17,11 +17,13 @@ ___
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Celery](https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0077C2?style=for-the-badge)
+![Alembic](https://img.shields.io/badge/Alembic-0077C2?style=for-the-badge)
 
 ### Databases
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 
 ### Front-end
