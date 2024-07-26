@@ -1,24 +1,31 @@
-<img src="banner.png" alt="banner">
-
-___
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,django,fastapi,go,js,html,css,bootstrap,postgres,mysql,mongodb,sqlite,redis,docker,git&theme=light" alt="Tech">
     <br>
     <br>
 </div>
 
+### Hi, I'm a backend developer and I have ideas, but I don't have knowledge of frontend technology.
+
+I want to implement my ideas, but I need a frontend developer.
+If you are a frontend developer of mobile or web etc.,
+and you have ideas or you want to implement my ideas, please write to me.
+
+I am still learning English so I can make mistakes in commits and texts.
+
+I am open to commercial offers (I am unemployed😔).
+
+I am 18 years old and programming has been my main occupation since January 2023.
+
 ### Back-end
 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 ![Django Channels](https://img.shields.io/badge/channels-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%2337814A.svg?&style=for-the-badge&logo=celery&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-0077C2?style=for-the-badge)
 ![Alembic](https://img.shields.io/badge/Alembic-0077C2?style=for-the-badge)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Databases
 
