@@ -4,10 +4,10 @@
     <br>
 </div>
 
-### Hi, I'm a backend developer and I have ideas, but I don't have knowledge of frontend technology.
+### Hi, I'm a Backend Developer and I have ideas, but I don't have knowledge of Frontend technology.
 
-I want to implement my ideas, but I need a frontend developer.
-If you are a frontend developer of mobile or web etc.,
+I want to implement my ideas, but I need a Frontend Developer.
+If you are a Frontend Developer of mobile or web etc.,
 and you have ideas or you want to implement my ideas, please write to me.
 
 I am still learning English so I can make mistakes in commits and texts.
